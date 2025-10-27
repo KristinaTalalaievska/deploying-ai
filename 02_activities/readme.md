@@ -1,7 +1,5 @@
 Overview of assignment:
 
-Overview of assignment:
-
 It focused on AI system that  summarizes document, evaluate the quality and automatically improves the results.
 
 Implementation
